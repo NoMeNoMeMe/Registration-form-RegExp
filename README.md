@@ -1,2 +1,6 @@
-# Register RegExp form
- Registration and login template with checking form fields using regular expressions
+# Register form with RegExp validation check
+
+Validation includes checking login length, password strength, and valid e-mail address, phone number, and postal code.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
